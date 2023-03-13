@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Maged</h1>
+<h1 align="center">Hey 👋, I'm Mohamed Maged</h1>
 <h3 align="center">A passionate Software Engineer, I'm an iOS Mobile Application Developer</h3>
 
 ![App Brewery Banner](https://www.bairesdev.com/wp-content/uploads/2021/06/swift.svg)
