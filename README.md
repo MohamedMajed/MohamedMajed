@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **mohamedmaged.live@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1FX5o138S87qRdNRaUsNdJkzTf0TEt5D_cgT1w59nPio/edit](https://docs.google.com/document/d/1FX5o138S87qRdNRaUsNdJkzTf0TEt5D_cgT1w59nPio/edit)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1VBGwcgVPQK7dNaGT771yX1gzBkLrkiBe/view?usp=sharing)
 
 - ⚡ Fun fact **:D**
 
